@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+.violet #owl-main .owl-controls .owl-page.active span, .violet #owl-main .owl-controls.clickable .owl-page:hover span {
+     border-color: #b95d82;
+}
+
+.violet .carousel-wrapper.with_pagination.round_inner .owl-theme .owl-controls .owl-page.active span, .violet .carousel-wrapper.with_pagination.round_inner .owl-theme .owl-controls .owl-page:hover span {
+     border-color: #b95d82;
+}
+
+.violet #header.overflow {
+     background-color: rgba(184, 95, 130, 0.9) ! important;
+}
+
+.violet .section .title {
+     border-color: #b95d82;
+}
+
+.violet .title::before, .violet .contact .title::before, .violet .contact .supertitle::before, .violet .pricing .heading::before, .violet .we-are a.selected h4::before, .violet .project-info h4::after, .violet .prev1::before, .violet .next1::before {
+     background-color: #b95d82 ! important;
+}
+
+.violet .btn:hover {
+     background-color: #b95d82;
+     border-color: #b95d82 ! important;
+}
+
+.violet .btn--primary {
+     background-color: #b95d82;
+}
+
+.violet .btn--primary:hover {
+     background-color: transparent;
+}
+
+.violet .pricing .btn--alt {
+     background-color: rgba(0, 0, 0, 0) ! important;
+     border-color: #b95d82;
+}
+
+.violet .project-info .btn, .violet .pricing .btn {
+     background-color: #b95d82;
+}
+
+.violet a.close.top {
+     background: rgba(0, 0, 0, 0) url("../../images/close-project-pink.png") no-repeat scroll 0% 0%;
+}
+
+.violet .pricing .btn:hover {
+     background-color: transparent;
+     border-color: #b95d82 ! important;
+}
+
+.violet .pricing .btn--alt:hover {
+     background-color: #b95d82 ! important;
+}
+
+.violet .btn--alt:hover {
+     background-color: #b95d82;
+     border-color: #b95d82;
+}
+
+.violet #team-members .info {
+     background-color: rgba(184, 95, 130, 0.9);
+}
+
+.violet #header .menu-item.current a, .violet #header .menu-item a:hover {
+     border-bottom-color: #b95d82;
+}
+
+.violet .options-head {
+     background: #b95d82 none repeat scroll 0% 0%;
+}
+
+.violet .carousel-wrapper.with_buttons .owl-controls .owl-buttons div, .violet .carousel-wrapper.with_buttons .owl-controls .owl-buttons div.owl-next {
+     background-color: #b95d82;
+}
+
+.violet .carousel-wrapper.full .generic-carousel .owl-item .ulitem li .icon {
+     background: #b95d82 none repeat scroll 0% 0%;
+}
+
+.violet .carousel-wrapper.with_pagination .owl-controls .owl-page.active span, .violet .carousel-wrapper.with_pagination .owl-controls.clickable .owl-page:hover span {
+     background: #b95d82 none repeat scroll 0% 0%;
+}
+
+.violet .team-wrapper .team-member .hover .name {
+     color: #b95d82;
+}
+
+.violet .team-wrapper .team-member .hover .hover-border {
+     border-color: #b95d82;
+}
+
+.violet .folio-filter li a.selected, .violet .folio-filter li a:hover {
+     background: #b95d82 none repeat scroll 0% 0%;
+     border-color: #b95d82;
+}
+
+.violet .portfolio-dark-overlay {
+     background: rgba(184, 95, 130, 0.9) none repeat scroll 0% 0%;
+}
+
+.violet .section .button:hover, .violet .section .button.playstop, .violet .contact-form .submit, .violet .section .button.inverse {
+     border-color: #b95d82;
+}
+
+.violet #footer .thanks, #testimonials, #our-story, .pag-more:hover {
+     background-color: #b95d82;
+}
+
+.violet .slide-sep, .violet .section .ball {
+     background: #b95d82 none repeat scroll 0% 0%;
+}
+
+.violet .blog-posts .month {
+     color: #b95d82;
+}
+
+.violet .blog-dark-overlay {
+     background: #b95d82 none repeat scroll 0% 0%;
+}
+
+.violet .video::before {
+     background-color: rgba(184, 95, 130, 0.6);
+}
+
+.violet .contact i {
+     color: #b95d82;
+}
+
+.violet .pricing .pro::before {
+     content: url("../../images/popular-pink.png");
+}
+
+.violet .quote {
+     background-color: #b95d82;
+}
+
+.violet .contact .supertitle::before, .violet #blog-detail .supertitle::before {
+     background-color: #b95d82;
+}

@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blue #owl-main .owl-controls .owl-page.active span, .blue #owl-main .owl-controls.clickable .owl-page:hover span {
+     border-color: #768fac;
+}
+
+.blue .carousel-wrapper.with_pagination.round_inner .owl-theme .owl-controls .owl-page.active span, .blue .carousel-wrapper.with_pagination.round_inner .owl-theme .owl-controls .owl-page:hover span {
+     border-color: #768fac;
+}
+
+.blue #header.overflow {
+     background-color: rgba(118, 143, 172, 0.9) ! important;
+}
+
+.blue .section .title {
+     border-color: #768fac;
+}
+
+.blue .title::before, .blue .contact .title::before, .blue .contact .supertitle::before, .blue .pricing .heading::before, .blue .we-are a.selected h4::before, .blue .project-info h4::after, .blue .prev1::before, .blue .next1::before {
+     background-color: #768fac ! important;
+}
+
+.blue .btn:hover {
+     background-color: #768fac;
+     border-color: #768fac ! important;
+}
+
+.blue .btn--primary {
+     background-color: #768fac;
+}
+
+.blue .btn--primary:hover {
+     background-color: transparent;
+}
+
+.blue .pricing .btn--alt {
+     background-color: rgba(0, 0, 0, 0) ! important;
+     border-color: #768fac;
+}
+
+.blue .pricing .btn--alt:hover {
+     background-color: #768fac ! important;
+}
+
+.blue .project-info .btn, .blue .pricing .btn {
+     background-color: #768fac;
+}
+
+.blue a.close.top {
+     background: rgba(0, 0, 0, 0) url("../../images/close-project-blue.png") no-repeat scroll 0% 0%;
+}
+
+.blue .pricing .btn:hover {
+     background-color: transparent;
+     border-color: #768fac ! important;
+}
+
+.blue .btn--alt:hover {
+     background-color: #768fac;
+     border-color: #768fac;
+}
+
+.blue #team-members .info {
+     background-color: rgba(118, 143, 172, 0.9);
+}
+
+.blue #header .menu-item.current a, .blue #header .menu-item a:hover {
+     border-bottom-color: #768fac;
+}
+
+.blue .options-head {
+     background: #768fac none repeat scroll 0% 0%;
+}
+
+.blue .carousel-wrapper.with_buttons .owl-controls .owl-buttons div, .blue .carousel-wrapper.with_buttons .owl-controls .owl-buttons div.owl-next {
+     background-color: #768fac;
+}
+
+.blue .carousel-wrapper.full .generic-carousel .owl-item .ulitem li .icon {
+     background: #768fac none repeat scroll 0% 0%;
+}
+
+.blue .carousel-wrapper.with_pagination .owl-controls .owl-page.active span, .blue .carousel-wrapper.with_pagination .owl-controls.clickable .owl-page:hover span {
+     background: #768fac none repeat scroll 0% 0%;
+}
+
+.blue .team-wrapper .team-member .hover .name {
+     color: #768fac;
+}
+
+.blue .team-wrapper .team-member .hover .hover-border {
+     border-color: #768fac;
+}
+
+.blue .folio-filter li a.selected, .blue .folio-filter li a:hover {
+     background: #768fac none repeat scroll 0% 0%;
+     border-color: #768fac;
+}
+
+.blue .portfolio-dark-overlay {
+     background: rgba(118, 143, 172, 0.9) none repeat scroll 0% 0%;
+}
+
+.blue .section .button:hover, .blue .section .button.playstop, .blue .contact-form .submit, .blue .section .button.inverse {
+     border-color: #768fac;
+}
+
+.blue #footer .thanks, .blue #testimonials, .blue #our-story, .blue .pag-more:hover {
+     background-color: #768fac;
+}
+
+.blue .slide-sep, .blue .section .ball {
+     background: #768fac none repeat scroll 0% 0%;
+}
+
+.blue .blog-posts .month {
+     color: #768fac;
+}
+
+.blue .blog-dark-overlay {
+     background: #768fac none repeat scroll 0% 0%;
+}
+
+.blue .video::before {
+     background-color: rgba(118, 143, 172, 0.6);
+}
+
+.blue .contact i {
+     color: #768fac;
+}
+
+.blue .pricing .pro::before {
+     content: url("../../images/popular-blue.png");
+}
+
+.blue .quote {
+     background-color: #768fac;
+}
+
+.blue .contact .supertitle::before, .blue #blog-detail .supertitle::before {
+     background-color: #768fac;
+}

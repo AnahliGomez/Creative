@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.isotope {
+     margin-top: 10px;
+}
+
+.folio-inner {
+     background: #ffffff none repeat scroll 0% 0%;
+     overflow: hidden;
+}
+
+.folio-filter {
+     bottom: 7px;
+     display: table;
+     float: none;
+     margin: -10px auto 40px;
+     position: relative;
+}
+
+.folio-filter li {
+     display: inline-block;
+}
+
+.folio-filter li:last-child {
+     padding-right: 0px;
+}
+
+.folio-filter li a {
+     background-color: transparent;
+     border-radius: 5px;
+     border: 1px solid #dadada;
+     color: #444444;
+     display: block;
+     font-family: "Lato-Light";
+     font-size: 16px;
+     font-weight: 700;
+     line-height: 16px;
+     margin-right: 20px;
+     padding: 12px 21px;
+     text-decoration: none;
+     text-transform: uppercase;
+}
+
+.folio-filter li a span {
+     margin-right: 6px;
+}
+
+.folio-filter li a:hover {
+     background: #ee2b45 none repeat scroll 0% 0%;
+     border-color: #ee2b45;
+     color: #ffffff;
+     text-decoration: none;
+}
+
+.folio-filter li a.selected {
+     background: #ee2b45 none repeat scroll 0% 0%;
+     border-color: #ee2b45;
+     color: #ffffff;
+}
+
+.selected {
+     background: #ee2b45 none repeat scroll 0% 0%;
+     border-color: #ee2b45;
+     color: #ffffff;
+}
+
+@media only screen and (max-width: 470px) {
+  .folio-filter { margin: 50px auto 0px; }
+  .folio-filter li { font-size: 12px; padding: 3px; }
+}
+
+@media only screen and (max-width: 767px) {
+  .folio-filter { margin: 50px auto 0px; }
+}
